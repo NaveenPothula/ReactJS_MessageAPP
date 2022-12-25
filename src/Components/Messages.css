@@ -1,0 +1,66 @@
+.Messagecontainer{
+    display:flex;  
+    flex-direction: row;
+    background: rgb(210, 228, 228);; 
+    margin-bottom: 20px;   
+}
+.Messagebox{
+    display:flex;  
+    flex-direction: column;
+    background: rgb(210, 228, 228);;  
+}
+.Messagecontent{
+    display:flex;
+    flex-direction: row;
+    background: rgb(210, 228, 228);;
+}
+.Logo{
+    height: 20px;
+    width: 20px;
+    padding: 6px;
+    border-radius: 50%;
+    background: rgb(128, 167, 189);
+    margin: 6px;
+    margin-top: 0px;
+    text-align: center;      
+}
+.Logocontent{
+    text-align: center;
+    font-size: 16px;  
+}
+.Fullname{
+    height: 20px;
+    width: auto;
+    border-radius: 6px;                          
+    margin: 2px;
+    margin-top: 6px; 
+}
+.Fullmessage{
+    height: auto;
+    width: auto;
+    border-radius: 6px;  
+    background: white;
+    padding: 4px;
+    margin: 2px;
+}
+.Buttoncontent{
+    height: 20px;
+    width: auto;
+    border-radius: 6px;
+    background: rgb(216, 211, 224);
+    padding: 4px;
+    margin: 2px;
+    text-align: center;
+    margin-right: 0px;
+    box-sizing: content-box;
+    opacity: 0.7;
+}
+.Counter{
+    height: 20px;
+    width: auto;
+    border-radius: 6px;
+    background: rgb(237, 234, 241);
+    padding: 4px;
+    margin: 2px;
+    opacity: 0.7;
+}

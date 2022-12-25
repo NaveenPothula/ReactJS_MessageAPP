@@ -1,0 +1,21 @@
+.Inputcontainer{
+    position: absolute; 
+    bottom: 16vh;
+    height: 6vh;  
+    width: 60%;
+}
+.Inputdiv{
+    height: inherit;
+    width: 100%;
+    border-radius: 10px; 
+}
+.Button{
+    height: inherit;
+    width: 60px;;
+    border-radius: 10px;
+    position: absolute;
+    right: -6px;
+    top:3px;  
+    
+
+};
